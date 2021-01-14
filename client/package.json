@@ -10,11 +10,11 @@
   },
   "husky": {
     "hooks": {
-      "pre-commit": "npm test"
+      "pre-commit": "lint-staged"
     }
   },
   "lint-staged": {
-    "src/**/*": "lint-staged"
+    "src/**/*": ["yarn lint --fix"]
   },
   "dependencies": {
     "next": "10.0.5",
