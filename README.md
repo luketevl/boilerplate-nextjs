@@ -14,6 +14,8 @@
 - https://storybook.js.org/
 - https://github.com/shadowwalker/next-pwa
 - https://github.com/hanford/next-offline
+- https://dependabot.com/
+
 
 # Features
 - Nextjs
@@ -30,3 +32,4 @@
 - styled-components
 - storybook
 - pwa
+- dependabot
