@@ -9,7 +9,9 @@
 - https://github.com/typicode/husky
 - https://github.com/okonet/lint-staged
 - https://jestjs.io/
- 
+- https://testing-library.com/
+
+
 # Features
 - Nextjs
 - Typescript
@@ -19,3 +21,6 @@
 - husky
 - lint staged
 - jest
+  - custom matches
+  - testing library
+  - jest-dom
