@@ -9,7 +9,7 @@
 - https://github.com/typicode/husky
 - https://github.com/okonet/lint-staged
 
-
+ 
 # Features
 - Nextjs
 - Typescript
