@@ -12,7 +12,8 @@
 - https://testing-library.com/
 - https://styled-components.com/
 - https://storybook.js.org/
-
+- https://github.com/shadowwalker/next-pwa
+- https://github.com/hanford/next-offline
 
 # Features
 - Nextjs
@@ -28,3 +29,4 @@
   - jest-dom
 - styled-components
 - storybook
+- pwa
