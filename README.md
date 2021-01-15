@@ -10,7 +10,7 @@
 - https://github.com/okonet/lint-staged
 - https://jestjs.io/
 - https://testing-library.com/
-
+- https://styled-components.com/
 
 # Features
 - Nextjs
@@ -24,3 +24,4 @@
   - custom matches
   - testing library
   - jest-dom
+- styled-components
