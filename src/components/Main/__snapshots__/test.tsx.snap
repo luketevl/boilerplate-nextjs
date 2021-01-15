@@ -1,9 +1,55 @@
 // Jest Snapshot v1, https://goo.gl/fbAQLP
 
-exports[`<Main /> Should render the heading 1`] = `
-<main>
-  <h1>
+exports[`<Main /> Should render the colors correctly 1`] = `
+<main
+  class="styles__Wrapper-sc-1cs6c8-0 KhUFe"
+>
+  <img
+    alt="Imagem de logomarca"
+    class="styles__Logo-sc-1cs6c8-1 igVxLV"
+    src="/favicon.ico"
+  />
+  <h1
+    class="styles__Title-sc-1cs6c8-2 VHROD"
+  >
     React Avançado
   </h1>
+  <h2
+    class="styles__Description-sc-1cs6c8-3 gQTEEc"
+  >
+    Typescript, ReactJS, NextJS
+  </h2>
+  <img
+    alt="Imagem de logomarca"
+    class="styles__Illustration-sc-1cs6c8-4 dJgtHR"
+    src="/favicon.ico"
+  />
 </main>
-`
+`;
+
+exports[`<Main /> Should render the heading 1`] = `
+<main
+  class="styles__Wrapper-sc-1cs6c8-0 KhUFe"
+>
+  <img
+    alt="Imagem de logomarca"
+    class="styles__Logo-sc-1cs6c8-1 igVxLV"
+    src="/favicon.ico"
+  />
+  <h1
+    class="styles__Title-sc-1cs6c8-2 VHROD"
+  >
+    React Avançado
+  </h1>
+  <h2
+    class="styles__Description-sc-1cs6c8-3 gQTEEc"
+  >
+    Typescript, ReactJS, NextJS
+  </h2>
+  <img
+    alt="Imagem de logomarca"
+    class="styles__Illustration-sc-1cs6c8-4 dJgtHR"
+    src="/favicon.ico"
+  />
+</main>
+`;

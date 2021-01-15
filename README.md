@@ -11,6 +11,8 @@
 - https://jestjs.io/
 - https://testing-library.com/
 - https://styled-components.com/
+- https://storybook.js.org/
+
 
 # Features
 - Nextjs
@@ -25,3 +27,4 @@
   - testing library
   - jest-dom
 - styled-components
+- storybook
