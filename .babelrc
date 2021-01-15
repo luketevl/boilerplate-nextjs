@@ -1,0 +1,3 @@
+{
+  "pesets": ["next/babel", "@babel/preset-typescript"]
+}

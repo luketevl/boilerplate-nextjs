@@ -8,7 +8,7 @@
 - https://prettier.io/
 - https://github.com/typicode/husky
 - https://github.com/okonet/lint-staged
-
+- https://jestjs.io/
  
 # Features
 - Nextjs
@@ -18,3 +18,4 @@
 - prettier
 - husky
 - lint staged
+- jest
