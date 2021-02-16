@@ -28,4 +28,4 @@ export default {
     gray: '#b1bdcc',
     lightGray: '#b9c5d2'
   }
-}
+} as const
